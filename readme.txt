@@ -1,0 +1,1 @@
+This is a face recognition project using Face_recognition library and a custom code implementation of implementation
